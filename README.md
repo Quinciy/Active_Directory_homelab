@@ -1,7 +1,7 @@
 # Active_Directory_homelab
 
 ## Overview
-I built a windows Active Directory homelab u sing virtualBox and windows server.
+I built a windows Active Directory homelab using virtualBox and windows server.
 
 ## Domain Info
  - Domain: mannyhomelab.local
